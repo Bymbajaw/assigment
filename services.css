@@ -1,0 +1,488 @@
+.tolgoi{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.tolgoi-container{
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.as{
+    display: flex;
+    align-items: center;
+}
+.right-head{
+    display: flex;
+}
+
+.right-head>li>a{
+    display: inline-block;
+    position: relative;
+    padding: 0px 20px;
+}
+
+.button{
+    background: rgba(245, 138, 7, 0.1);
+    width: 173px;
+    height: 52px;
+    left: 1427px;
+    top: 16px;
+    border-radius: 31px;
+    margin-left: 47px;
+    line-height: 50px;
+}
+
+.button>a{
+    font: "Poppins";
+    font-weight: 600;
+    size: 16px;
+    color: #F58A07;
+    padding: 18px 30px 17px 29px;  
+
+}
+
+
+.serviceonebox{
+    height: 650px;
+    width: 1280px;
+    left: 320px;
+    top: 176px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    height: 463px;
+    width: 1920px;
+    left: 0px;
+    top: 6150px;
+    position: absolute;
+}    
+
+.footer-bg{
+    background-color: #1D3444;
+    height: 463px;
+    width: 1920px;
+    left: 0px;
+    top: 6150px;
+    color: #fff;
+    
+}    
+
+.footer-top{
+    height: 199px;
+    width: 1280px;
+    left: 320px;
+    top: 80px;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+}    
+
+
+.footer-left{
+    height: 199px;
+    width: 351px;
+}    
+
+.footer-left-bg{
+    height: 199px;
+    width: 351px;
+    color: #fff;
+}    
+
+
+.footer-left-h1{
+    height: 88px;
+    width: 351px;
+    position: absolute;
+}    
+
+.footer-left-h1 h1{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    
+}    
+
+.footer-left-icon{
+    height: 20px;
+    width: 136.00018310546875px;
+    border-radius: 0px;
+    display: flex;
+    top: 180px;
+    
+    justify-content: space-between;
+    position: absolute;
+}    
+
+.facebook{
+    
+}    
+
+
+.youtube{
+    height: 20px;
+    width: 21.34306526184082px;
+    left: 358.21875px;
+    top: 6409px;
+    border-radius: 0px;
+}    
+
+.instagram{
+    height: 20px;
+    width: 21.34306526184082px;
+    left: 320px;
+    top: 6409px;
+    border-radius: 0px;
+    
+}    
+
+.twitter{
+    
+}    
+
+.footer-company{
+    
+    justify-content: space-between;
+}    
+
+.footer-company1{
+    height: 35px;
+    width: 92px;
+}    
+
+.footer-company1 a{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+}    
+
+.footer-company2{
+    height: 24px;
+    width: 72px;
+    margin-top: 16px;
+
+}    
+
+.footer-company2 a{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}    
+
+.footer-company3{
+    height: 24px;
+    width: 65px;
+    margin-top: 16px;
+}    
+
+.footer-company3 a{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}    
+
+.footer-company4{
+    height: 24px;
+    width: 68px;
+    margin-top: 16px;
+}    
+
+.footer-company4 a{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}    
+
+.footer-company5{
+    height: 24px;
+    width: 35px;
+    margin-top: 16px;
+}    
+
+.footer-company5 a{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}    
+
+.footer-company2{
+    height: 24px;
+    width: 75px;
+    left: 781px;
+    top: 6281px;
+    
+    
+}    
+
+
+
+.footer-connect{
+    height: 117px;
+    width: 142px;
+    left: 979px;
+    
+}    
+
+.footer-connect1{
+    height: 27px;
+    width: 79px;    
+}    
+.footer-connect1 a{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}    
+.footer-connect2{
+    height: 24px;
+    width: 142px;
+    margin-top: 26px;
+    
+}    
+.footer-connect2 a{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}    
+.footer-connect3{
+    height: 24px;
+    width: 136px;   
+    margin-top: 16px; 
+}    
+.footer-connect3 a{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}    
+
+
+.footer-join{
+    height: 175px;
+    width: 342px;
+    left: 1258px;
+    border-radius: 31px;
+    
+}    
+
+.footer-join{
+    height: 175px;
+    width: 342px;
+    border-radius: 31px;
+    
+}    
+
+.footer-join1{
+    height: 27px;
+    width: 141px;    
+}    
+
+.footer-join1 a{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}    
+.footer-join-button1{
+    height: 54px;
+    width: 342px;
+    border-radius: 31px;
+    background-color: #FFFFFF;
+    margin-top: 24px;
+}    
+
+.footer-join-button-p1{
+    height: 19px;
+    width: 222px;
+    padding: 15px 32px;
+    
+}    
+
+.footer-join-button-p1 a{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #9C9C9C;
+    
+}    
+.footer-join-button2{
+    height: 54px;
+    width: 156px;
+    border-radius: 31px;
+    background-color: #F58A07;
+    margin-top: 16px;
+    padding: 15px 32px;
+}    
+.footer-join-button-p2{
+    height: 19px;
+    width: 92px;
+    
+}    
+.footer-join-button-p2 a{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    
+}    
+
+.footer-bottom{
+    height: 463px;
+    width: 1920px;
+    left: 0px;
+    top: 6150px;
+}    
+
+.footer-bottom-left-shape{
+    height: 144.00000000000054px;
+    width: 52.99998474121114px;
+    top: 319px;
+    background-color: #F58A07;
+    position: absolute;
+    border-top-right-radius: 20px;
+}    
+.footer-bottom-right-shape{
+    height: 287px;
+    width: 53px;
+    left: 1867px;
+    top: 38px;
+    position: absolute;
+    background-color: #F58A07;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}    
+
+.footer-bottom-tag{
+    height: 24px;
+    width: 1280px;
+    top: 359px;
+    left: 320px;
+    display: flex;   
+    position: absolute; 
+    justify-content: space-between;
+}    
+
+.di{
+    display: flex;
+    justify-content: start;
+    height: 24px;
+    width: 298px;
+    border-radius: nullpx;
+    
+}    
+
+.footer-bottom-tag-left{
+    height: 24px;
+    width: 300px;
+}    
+
+.footer-bottom-tag-left a{
+    
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}    
+.footer-bottom-tag-gol{
+    height: 24px;
+    width: 200px;
+    
+}    
+.footer-bottom-tag-gol a{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}    
+.footer-bottom-tag-right{
+    height: 24px;
+    width: 250px;
+    
+}    
+.footer-bottom-tag-right a{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}    
+
