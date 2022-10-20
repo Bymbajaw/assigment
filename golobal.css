@@ -8,6 +8,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     
+    
 }
 
 ul, li{
@@ -23,6 +24,6 @@ a{
 
 
 .container{
-    max-width: 1280px;
-    margin-left: 320px;
+    width: 1280px;
+    margin: 0 auto;
 }
