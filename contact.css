@@ -105,11 +105,11 @@
 
 
 
-
+.conone{
+    padding-bottom: 108px;
+}
 
 .contact-head-section{
-    height: 182px;
-    width: 1165px; 
     display: flex;   
     justify-content: space-between;
     margin-top: 108px;
@@ -139,15 +139,11 @@
 }
 
 .contact-head-section-right{
-    height: 110px;
-    width: 505px;
     display: flex;
     justify-content: space-between;    
 }
 
 .contact-head-section-text-left{
-    height: 106px;
-    width: 270px;
     margin-top: 40px;
     
 }
@@ -173,7 +169,6 @@
 }
 
 .contact-head-section-text-right{
-    height: 110px;
     width: 159px;    
     margin-top: 40px;
 }
@@ -235,20 +230,17 @@
 
 
 
-
+.contwo{
+    padding-bottom: 108px;
+}
 
 .contact-body-section{
-    height: 456px;
-    width: 1280px;
     display: flex;
     justify-content: space-between;
-    margin-top: 108px;
+    
 }
 
-.contect-body-section-left{
-    height: 456px;
-    width: 605px;    
-}
+
 
 
 .contact-body-section-buttons-button{
@@ -282,7 +274,6 @@
 }
 
 .contact-body-section-button{
-    height: 54px;
     width: 119px;
     background-color: #F58A07;
     color: #fff;    
@@ -330,32 +321,29 @@
 
 
 
+.end{
+    background-color: #063255;
+    padding-bottom: 0px;
+}
+
 
 .footer{
-    height: 463px;
-    width: 1920px;
     overflow: hidden;
-    margin-left: -320px;
-    margin-top: 128px;
 }    
 
 .footer-bg{
-    background-color: #063255;
-    height: 463px;
-    width: 1920px;
     
     color: #fff;
     
 }    
 
 .footer-top{
-    height: 199px;
-    width: 1400px;
+    height: 290px;
+    
     display: flex;
     justify-content: space-between;
     padding-top: 80px;
-    padding-left: 330px;
-    padding-right: 2px;
+    
 }    
 
 
@@ -365,8 +353,7 @@
 }    
 
 .footer-left-bg{
-    height: 199px;
-    width: 351px;
+    
     color: #fff;
 }    
 
@@ -394,37 +381,15 @@
     display: flex;
     margin-top: 30px;
 }    
-
-.facebook{
     
-}    
-
-
-.youtube{
-    height: 20px;
-    width: 21.34306526184082px;
-    border-radius: 0px;
-}    
-
-.instagram{
-    height: 20px;
-    width: 21.34306526184082px;
-    border-radius: 0px;
-    
-}    
-
-.twitter{
-    
-}    
 
 .footer-company{
-    margin-left: 90px;
     justify-content: space-between;
 }    
 
 .footer-company1{
-    height: 35px;
-    width: 92px;
+    
+    
 }    
 
 .footer-company1 a{
@@ -436,8 +401,6 @@
 }    
 
 .footer-company2{
-    height: 24px;
-    width: 72px;
     margin-top: 16px;
 
 }    
@@ -452,8 +415,8 @@
 }    
 
 .footer-company3{
-    height: 24px;
-    width: 65px;
+
+
     margin-top: 16px;
 }    
 
@@ -467,8 +430,8 @@
 }    
 
 .footer-company4{
-    height: 24px;
-    width: 68px;
+    
+    
     margin-top: 16px;
 }    
 
@@ -482,8 +445,7 @@
 }    
 
 .footer-company5{
-    height: 24px;
-    width: 35px;
+    
     margin-top: 16px;
 }    
 
@@ -495,27 +457,7 @@
     text-align: left;
     
 }    
-
-.footer-company2{
-    height: 24px;
-    width: 75px;
     
-    
-}    
-
-
-
-.footer-connect{
-    height: 117px;
-    width: 142px;
-    margin-left: 150px;
-    
-}    
-
-.footer-connect1{
-    height: 27px;
-    width: 79px;    
-}    
 .footer-connect1 a{
     font-size: 18px;
     font-weight: 600;
@@ -525,8 +467,7 @@
     
 }    
 .footer-connect2{
-    height: 24px;
-    width: 142px;
+    
     margin-top: 26px;
     
 }    
@@ -539,8 +480,7 @@
     
 }    
 .footer-connect3{
-    height: 24px;
-    width: 136px;   
+     
     margin-top: 16px; 
 }    
 .footer-connect3 a{
@@ -554,9 +494,9 @@
 
 
 .footer-join{
-    height: 175px;
+    
     border-radius: 31px;
-    margin-left: 100px;
+    
     
 }    
 
@@ -568,8 +508,8 @@
 }    
 
 .footer-join1{
-    height: 27px;
-    width: 141px;    
+    
+      
 }    
 
 .footer-join1 a{
@@ -627,16 +567,16 @@
 }    
 
 .footer-bottom{
-    height: 463px;
-    width: 1920px;
     display: flex;
+    justify-content: space-between;
+    margin-top: -100px;
 }    
 
 .footer-bottom-left-shape{
     height: 144px;
     width: 52px;
-    top: 319px;
-    margin-top: 120px;
+    
+    margin-top: 150px;
     background-color: #F58A07;
     
     border-top-right-radius: 20px;
@@ -644,7 +584,7 @@
 .footer-bottom-right-shape{
     height: 287px;
     width: 53px;
-    margin-top: -200px;
+    margin-top: -100px;
     margin-left: 300px;
     background-color: #F58A07;
     border-top-left-radius: 20px;
