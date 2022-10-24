@@ -8,16 +8,16 @@
 
 .deedbox-box{
     margin-top: 43px;
-    margin-left: -320px;
-    top: 97px;
     display: flex;
+}
+
+.image img{
+    margin-bottom: -5px;
 }
 
 
 .text{
     width: 576px;
-    margin-left: 325px;
-    
 }
 
 .text-h1 h1{
@@ -46,7 +46,6 @@
 .deedbox-button-left{
     background-color: #F58A07;
     width: 199px;
-    height: 54px;
     border-radius: 27px;
     padding: 15px 32px ;
 }
@@ -127,7 +126,6 @@
 
 
 .two-box-h1{
-    height: 112px;
     width: 735px;
 }
 
@@ -140,7 +138,6 @@
 }
 
 .two-box-p{
-    height: 90px;
     width: 735px;
 }
 .two-box-p p{
@@ -290,22 +287,18 @@
 
 
 .fourbox{
-    height: 667px;
-    width: 1180px;
     margin-top: 99px;
     display: flex;
     
 }
 
 .four-box-left{
-    height: 549px;
     width: 596px;
     margin-top: 50px;
     
 }
 
 .four-box-left-h1{
-    height: 157px;
     width: 596px;
 }
 
@@ -318,7 +311,6 @@
 }
 
 .four-box-left-p{
-    height: 120px;
     width: 510px;
     
 }
@@ -334,11 +326,9 @@
 }
 
 .four-box-left-door-left{
-    height: 192px;
     width: 264px;
 }
 .four-box-left-door-right{
-    height: 192px;
     width: 270px;
 
 }
@@ -368,8 +358,6 @@
 }
 
 .four-box-right{
-    height: 667px;
-    width: 637px;
     margin-left: 47px;
 }
 
@@ -378,8 +366,6 @@
 }
 
 .four-box-right-multiply{
-    height: 670px;
-    width: 153px;
     border-radius: 0px;
     background-blend-mode: multiply;
     background-color: #F58A07;
@@ -425,16 +411,9 @@
 
 
 
-
-
-.fivebox{
-    height: 698px;
-    width: 1180px;
-    margin-top: 96px;
-    
-
+.five{
+    padding-top: 108px;
 }
-
 
 .five-box-right-top{
     width: 179px;
@@ -459,7 +438,6 @@
 
 .five-box-left-top{
     display: flex;
-    height: 40px;
     width: 580px;
     margin-top: -120px;
     border-radius: 31px;
@@ -474,7 +452,6 @@
 }
 
 .five-box-left-top-gol{
-    height: 40px;
     width: 155px;
     border-radius: 31px;
     
@@ -512,14 +489,12 @@
 
 
 .five-box-left-top-right{
-    height: 40px;
     width: 183px;
     border-radius: 31px;
     
 }
 
 .five-box-left-top-left a{
-    height: 24px;
     width: 146px;
     font-size: 16px;
     font-weight: 600;
@@ -533,14 +508,12 @@
 }
 
 .five-box-left-top-left-bg{
-    height: 40px;
     width: 194px;
     border-radius: 31px;
     background-color: #fff;
 }
 
 .five-box-left-top-gol a{
-    height: 24px;
     width: 107px;
     font-size: 16px;
     font-weight: 600;
@@ -553,7 +526,6 @@
 }
 
 .five-box-left-top-gol-bg{
-    height: 40px;
     width: 155px;
     border-radius: 31px;
     background-color: #EDF7FF;
@@ -561,7 +533,6 @@
 }
 
 .five-box-left-top-right a{
-    height: 24px;
     width: 135px;
     font-size: 16px;
     font-weight: 600;
@@ -574,7 +545,6 @@
 }
 
 .five-box-left-top-right-bg{
-    height: 40px;
     width: 183px;
     border-radius: 31px;
     background-color: #EDF7FF;
@@ -605,15 +575,11 @@
 }
 
 .five-box-tag-p{
-    
-    height: 210px;
     width: 510px;    
     line-height: 30px;
 }
 
 .five-box-tag-button{
-    
-    height: 17px;
     width: 160px;
     display: flex;
     justify-content: space-between;
@@ -684,7 +650,6 @@
 }
 
 .six-box-orange{
-    height: 518px;
     width: 50%;
     border-radius: 0px;
     background-color: #F58A07;
@@ -693,7 +658,6 @@
 }
 
 .six-box-orange-p{
-    height: 168px;
     width: 532px;   
     margin-left: 128px;
     margin-top: 128px;
@@ -838,14 +802,14 @@
 }
 
 .seven-box-bottom-img{
-    height: 80px;
+    
     width: 80px;
     margin-top: 20px;
     border-radius: 0px;    
 }
 
 .seven-box-bottom-tag-top{
-    height: 41px;
+    
     width: 200px;
 }
 
@@ -858,7 +822,7 @@
 }
 
 .seven-box-bottom-tag-bottom{
-    height: 31px;
+    
     width: 159px; 
 }
 
@@ -873,10 +837,7 @@
 }
 
 .seven-box-img{
-    height: 501px;
-    width: 620px;
-
-    border-radius: 20px;
+    border-radius: 200px;
 }
 
 
@@ -899,6 +860,7 @@
 .seven-box-img-button-left{
     background-color: #fff;
     border-radius: 100px;
+    width: 50px;
     
 }
 
@@ -943,6 +905,28 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
