@@ -550,9 +550,6 @@ width: 336px;
     color: #F58A07;
 }
 
-.footer-left-icon img:hover{
-    background-color: #e48950;
-}
 
 .footer-join-button-p2 a:hover{
     color: #000;
@@ -561,3 +558,12 @@ width: 336px;
 .footer-join-button-p1 a:hover{
     color: #000;
 }
+
+.footer-left-icon img{
+    transition: transform 2s;
+}
+
+.footer-left-icon img:hover{
+    transform: rotate(360deg);
+}
+
